@@ -1,0 +1,109 @@
+# ====================
+# Unity 生成文件
+# ====================
+
+# Unity 项目目录(若包含完整 Unity 项目则取消注释)
+# /[Ll]ibrary/
+# /[Tt]emp/
+# /[Oo]bj/
+# /[Bb]uild/
+# /[Bb]uilds/
+# /[Ll]ogs/
+# /[Uu]ser[Ss]ettings/
+
+# Unity 内存快照
+*.memsnapshot
+
+# Unity 资源导入缓存
+*.unitypackage.meta
+
+# ====================
+# Visual Studio / VSCode
+# ====================
+
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.svdb
+*.svpdb
+
+# ====================
+# MonoDevelop / Rider
+# ====================
+
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.mdb
+.idea/
+
+# ====================
+# 操作系统生成文件
+# ====================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+
+# ====================
+# 日志与临时文件
+# ====================
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.orig
+
+# ====================
+# 构建产物
+# ====================
+
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+
+# ====================
+# Trae / AI 工具临时文件
+# ====================
+
+.trae/cache/
+.trae/tmp/
+*.traecache
+
+# ====================
+# 保留文件(不忽略)
+# ====================
+
+# 保留 Skill 定义
+!.trae/skills/
+!.trae/skills/**
+
+# 保留 Unity Editor 工具
+!Editor/
+!Editor/**
+
+# 保留示例数据
+!Level1_objects.json

@@ -1,0 +1,1266 @@
+﻿{
+    "sceneName": "Level1",
+    "exportTime": "2026-08-03T03:23:08.1658848Z",
+    "objects": [
+        {
+            "name": "Main Camera",
+            "hierarchyPath": "Main Camera",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 1.0,
+                "sizeY": 1.0,
+                "sizeZ": 1.0
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -10.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31310
+        },
+        {
+            "name": "blue_shroom",
+            "hierarchyPath": "blue_shroom",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 21.09731101989746,
+                "sizeY": 21.09731101989746,
+                "sizeZ": 0.41205689311027529
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -0.27000001072883608,
+                    "y": -0.24705000221729279,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.060284376144409,
+                    "y": 2.060284376144409,
+                    "z": 2.060284376144409
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31470
+        },
+        {
+            "name": "grass (3)",
+            "hierarchyPath": "grass (3)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.699999988079071,
+                "sizeY": 0.699999988079071,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 7.289999961853027,
+                    "y": -4.429999828338623,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31476
+        },
+        {
+            "name": "GameBlocks",
+            "hierarchyPath": "GameBlocks",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.0,
+                "sizeY": 1.0,
+                "sizeZ": 1.0
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 0.07999999821186066,
+                    "y": -0.058147132396698,
+                    "z": 0.0407136045396328
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31242
+        },
+        {
+            "name": "elm_01",
+            "hierarchyPath": "GameBlocks/elm_01",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.399999976158142,
+                "sizeY": 1.399999976158142,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -0.9300000071525574,
+                    "y": -4.098146915435791,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31222
+        },
+        {
+            "name": "elm_01 (1)",
+            "hierarchyPath": "GameBlocks/elm_01 (1)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.399999976158142,
+                "sizeY": 1.399999976158142,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 3.8869998455047609,
+                    "y": -4.098146915435791,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31262
+        },
+        {
+            "name": "elm_01 (2)",
+            "hierarchyPath": "GameBlocks/elm_01 (2)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.399999976158142,
+                "sizeY": 1.399999976158142,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 5.449999809265137,
+                    "y": -4.098146915435791,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31334
+        },
+        {
+            "name": "elm_02",
+            "hierarchyPath": "GameBlocks/elm_02",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.699999988079071,
+                "sizeY": 2.200000047683716,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -1.25,
+                    "y": -1.5,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31286
+        },
+        {
+            "name": "elm_02 (1)",
+            "hierarchyPath": "GameBlocks/elm_02 (1)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 2.2871999740600588,
+                "sizeY": 1.578107476234436,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 0.07000000029802323,
+                    "y": 0.8718528747558594,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 295.4718933105469
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31374
+        },
+        {
+            "name": "elm_02 (2)",
+            "hierarchyPath": "GameBlocks/elm_02 (2)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.7186843156814575,
+                "sizeY": 2.205873489379883,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 1.9200000762939454,
+                    "y": -0.10814712941646576,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.4872719943523407
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31232
+        },
+        {
+            "name": "elm_02 (3)",
+            "hierarchyPath": "GameBlocks/elm_02 (3)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.7186843156814575,
+                "sizeY": 2.205873489379883,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 3.6399998664855959,
+                    "y": 1.8718528747558594,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.4872719943523407
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31400
+        },
+        {
+            "name": "elm_02 (4)",
+            "hierarchyPath": "GameBlocks/elm_02 (4)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.7186843156814575,
+                "sizeY": 2.205873489379883,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 5.159999847412109,
+                    "y": 0.3218528628349304,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.4872719943523407
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31440
+        },
+        {
+            "name": "elm_02 (6)",
+            "hierarchyPath": "GameBlocks/elm_02 (6)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 2.200000286102295,
+                "sizeY": 0.7000002861022949,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 6.889999866485596,
+                    "y": -0.6381471157073975,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 270.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31296
+        },
+        {
+            "name": "elm_02 (5)",
+            "hierarchyPath": "GameBlocks/elm_02 (5)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.7186843156814575,
+                "sizeY": 2.205873489379883,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 6.590000152587891,
+                    "y": -2.6981472969055177,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.4872719943523407
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31272
+        },
+        {
+            "name": "elm_02 (7)",
+            "hierarchyPath": "GameBlocks/elm_02 (7)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.7186843156814575,
+                "sizeY": 2.205873489379883,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 8.869999885559082,
+                    "y": -2.548147201538086,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.4872719943523407
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31450
+        },
+        {
+            "name": "elm_03",
+            "hierarchyPath": "GameBlocks/elm_03",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.9967111349105836,
+                "sizeY": 2.0996742248535158,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 0.8399999737739563,
+                    "y": -3.0931472778320314,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 317.7820739746094
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31352
+        },
+        {
+            "name": "featuretool",
+            "hierarchyPath": "GameBlocks/elm_03/featuretool",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.6308630108833313,
+                "sizeY": 0.6308630108833313,
+                "sizeZ": 0.1276896595954895
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -0.0040632933378219608,
+                    "y": -3.307609796524048,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 48.48469543457031
+                },
+                "scale": {
+                    "x": 0.6384482979774475,
+                    "y": 0.6384482979774475,
+                    "z": 0.6384482979774475
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31384
+        },
+        {
+            "name": "theposition_01",
+            "hierarchyPath": "GameBlocks/elm_03/theposition_01",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.6384483575820923,
+                "sizeY": 0.6384483575820923,
+                "sizeZ": 0.6384482979774475
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -0.004803881049156189,
+                    "y": -3.3069379329681398,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 48.48469543457031
+                },
+                "scale": {
+                    "x": 0.6384483575820923,
+                    "y": 0.6384483575820923,
+                    "z": 0.6384482979774475
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31282
+        },
+        {
+            "name": "theposition_02",
+            "hierarchyPath": "GameBlocks/elm_03/theposition_02",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.6384483575820923,
+                "sizeY": 0.6384483575820923,
+                "sizeZ": 0.6384482979774475
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 1.018850326538086,
+                    "y": -2.1117448806762697,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 48.48469543457031
+                },
+                "scale": {
+                    "x": 0.6384483575820923,
+                    "y": 0.6384483575820923,
+                    "z": 0.6384482979774475
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31422
+        },
+        {
+            "name": "elm_04",
+            "hierarchyPath": "GameBlocks/elm_04",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 2.3086459636688234,
+                "sizeY": 1.344207525253296,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 2.9700000286102297,
+                    "y": -2.8981471061706545,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 287.95819091796877
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31428
+        },
+        {
+            "name": "featuretool",
+            "hierarchyPath": "GameBlocks/elm_04/featuretool",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.5664162039756775,
+                "sizeY": 0.5664162039756775,
+                "sizeZ": 0.1276896595954895
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 2.131066083908081,
+                    "y": -2.6644229888916017,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 18.660816192626954
+                },
+                "scale": {
+                    "x": 0.6384482979774475,
+                    "y": 0.6384482979774475,
+                    "z": 0.6384482979774475
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31254
+        },
+        {
+            "name": "theposition_01",
+            "hierarchyPath": "GameBlocks/elm_04/theposition_01",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.6384483575820923,
+                "sizeY": 0.6384483575820923,
+                "sizeZ": 0.6384482979774475
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 2.1307578086853029,
+                    "y": -2.6634716987609865,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 18.660810470581056
+                },
+                "scale": {
+                    "x": 0.6384483575820923,
+                    "y": 0.6384483575820923,
+                    "z": 0.6384482979774475
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31306
+        },
+        {
+            "name": "theposition_02",
+            "hierarchyPath": "GameBlocks/elm_04/theposition_02",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.6384483575820923,
+                "sizeY": 0.6384483575820923,
+                "sizeZ": 0.6384482979774475
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 3.6132495403289797,
+                    "y": -2.135672092437744,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 18.660810470581056
+                },
+                "scale": {
+                    "x": 0.6384483575820923,
+                    "y": 0.6384483575820923,
+                    "z": 0.6384482979774475
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31250
+        },
+        {
+            "name": "elm_05",
+            "hierarchyPath": "GameBlocks/elm_05",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.5136635303497315,
+                "sizeY": 0.9718152284622192,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -2.377000093460083,
+                    "y": -3.611999988555908,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 168.18536376953126
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31502
+        },
+        {
+            "name": "elm_06",
+            "hierarchyPath": "GameBlocks/elm_06",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.3203694820404053,
+                "sizeY": 1.5606613159179688,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -3.5199999809265138,
+                    "y": -1.9581470489501954,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 59.04780578613281
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31410
+        },
+        {
+            "name": "Feature_Tools",
+            "hierarchyPath": "Feature_Tools",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.0,
+                "sizeY": 1.0,
+                "sizeZ": 1.0
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -1.1971038579940797,
+                    "y": -0.5396173000335693,
+                    "z": 0.02438857965171337
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31246
+        },
+        {
+            "name": "feature_tool_01",
+            "hierarchyPath": "Feature_Tools/feature_tool_01",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.699999988079071,
+                "sizeY": 0.699999988079071,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -0.8171038627624512,
+                    "y": -3.009617328643799,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31492
+        },
+        {
+            "name": "feature_tool_02",
+            "hierarchyPath": "Feature_Tools/feature_tool_02",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.699999988079071,
+                "sizeY": 0.699999988079071,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 1.8628960847854615,
+                    "y": -2.0796172618865969,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31364
+        },
+        {
+            "name": "feature_tool_03",
+            "hierarchyPath": "Feature_Tools/feature_tool_03",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.699999988079071,
+                "sizeY": 0.699999988079071,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 7.929999828338623,
+                    "y": -3.7196173667907717,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31460
+        },
+        {
+            "name": "grass (2)",
+            "hierarchyPath": "grass (2)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.699999988079071,
+                "sizeY": 0.699999988079071,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 8.680000305175782,
+                    "y": -4.429999828338623,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31392
+        },
+        {
+            "name": "grass (1)",
+            "hierarchyPath": "grass (1)",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.699999988079071,
+                "sizeY": 0.699999988079071,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 7.986000061035156,
+                    "y": -4.429999828338623,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "PolygonCollider2D",
+            "unityInstanceID": 31344
+        },
+        {
+            "name": "Ground",
+            "hierarchyPath": "Ground",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 18.89661979675293,
+                "sizeY": 0.699999988079071,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 0.0,
+                    "y": -5.150000095367432,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 26.99517250061035,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "BoxCollider2D",
+            "unityInstanceID": 31318
+        },
+        {
+            "name": "Player",
+            "hierarchyPath": "Player",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 0.5996983051300049,
+                "sizeY": 0.6089244484901428,
+                "sizeZ": 0.036904510110616687
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.51800012588501,
+                    "y": -2.1470000743865969,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 0.18452255427837373,
+                    "y": 0.18452255427837373,
+                    "z": 0.18452255427837373
+                }
+            },
+            "colliderType": "CircleCollider2D",
+            "unityInstanceID": -12354
+        },
+        {
+            "name": "Slingshot",
+            "hierarchyPath": "Slingshot",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 1.0,
+                "sizeY": 1.0,
+                "sizeZ": 1.0
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.75,
+                    "y": -2.0975074768066408,
+                    "z": 0.020564094185829164
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": -12314
+        },
+        {
+            "name": "Slingshot_LeftPole",
+            "hierarchyPath": "Slingshot/Slingshot_LeftPole",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 0.15378199517726899,
+                "sizeY": 1.9500000476837159,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.769000053405762,
+                    "y": -3.8055074214935304,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 0.15378199517726899,
+                    "y": 1.9500000476837159,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": -12318
+        },
+        {
+            "name": "Slingshot_RightPole",
+            "hierarchyPath": "Slingshot/Slingshot_RightPole",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 0.15378206968307496,
+                "sizeY": 1.9500000476837159,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.275000095367432,
+                    "y": -3.8055074214935304,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 0.15378206968307496,
+                    "y": 1.9500000476837159,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": -12324
+        },
+        {
+            "name": "Slingshot_YBranch",
+            "hierarchyPath": "Slingshot/Slingshot_YBranch",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 0.9388770461082459,
+                "sizeY": 0.764946699142456,
+                "sizeZ": 0.0
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.518613815307617,
+                    "y": -2.6964941024780275,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 181.912109375
+                },
+                "scale": {
+                    "x": 0.9148678183555603,
+                    "y": 0.7348300218582153,
+                    "z": 0.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": -12330
+        },
+        {
+            "name": "Fireposition",
+            "hierarchyPath": "Slingshot/Fireposition",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.10000000149011612,
+                "sizeY": 0.10000000149011612,
+                "sizeZ": 1.100000023841858
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.519999980926514,
+                    "y": -2.707507610321045,
+                    "z": 0.020564094185829164
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31486
+        },
+        {
+            "name": "rotationcube",
+            "hierarchyPath": "Slingshot/rotationcube",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 1.0,
+                "sizeY": 1.0,
+                "sizeZ": 1.0
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.53000020980835,
+                    "y": -2.7975075244903566,
+                    "z": 0.020564094185829164
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": -12338
+        },
+        {
+            "name": "l",
+            "hierarchyPath": "Slingshot/rotationcube/l",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.3265312910079956,
+                "sizeY": 0.37257617712020876,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.892000198364258,
+                    "y": -2.707507610321045,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 39.04243850708008
+                },
+                "scale": {
+                    "x": 0.09166800230741501,
+                    "y": 0.40536001324653628,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": -12342
+        },
+        {
+            "name": "r",
+            "hierarchyPath": "Slingshot/rotationcube/r",
+            "category": "platform",
+            "isFixed": false,
+            "bounds": {
+                "sizeX": 0.30592989921569826,
+                "sizeY": 0.3855581283569336,
+                "sizeZ": 0.20000000298023225
+            },
+            "currentTransform": {
+                "position": {
+                    "x": -7.1579999923706059,
+                    "y": -2.690507411956787,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 325.34027099609377
+                },
+                "scale": {
+                    "x": 0.09166800230741501,
+                    "y": 0.40536001324653628,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": -12348
+        },
+        {
+            "name": "FailDetector ",
+            "hierarchyPath": "FailDetector ",
+            "category": "fixed",
+            "isFixed": true,
+            "bounds": {
+                "sizeX": 1.0,
+                "sizeY": 1.0,
+                "sizeZ": 1.0
+            },
+            "currentTransform": {
+                "position": {
+                    "x": 526.2581176757813,
+                    "y": 379.86572265625,
+                    "z": -2.3489952087402345
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            },
+            "colliderType": "None",
+            "unityInstanceID": 31328
+        }
+    ]
+}
